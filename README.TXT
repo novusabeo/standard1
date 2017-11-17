@@ -1,4 +1,4 @@
-Project: Library Book System for Galvanize Admission Portfolio Standard1
+Project: Library Book System 
                           
               Description:
               
@@ -14,7 +14,7 @@ Project: Library Book System for Galvanize Admission Portfolio Standard1
               
               Need to learn more about main method calls for implementing this code as its own executable .jar file.
               
-              Remember public static void main(String[] args)
+              "public static void main(String[] args)" 
                      
 
 Version: Compiled using Bluej. November 16, 2017 

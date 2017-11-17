@@ -11,11 +11,7 @@ Project: Library Book System
               Challenges:
               
               Making the Library class interact with Book class objects to act as an inventory took some research. Ultimately,               arrays came to the rescue and I implemented this into the Library class to act as a system for adding Book                     objects to Library objects.
-              
-              Need to learn more about main method calls for implementing this code as its own executable .jar file.
-              
-              "public static void main(String[] args)" 
-                     
+           
 
 Version: Compiled using Bluej. November 16, 2017 
 

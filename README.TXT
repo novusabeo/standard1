@@ -18,7 +18,7 @@ Description:  For submission to the Galvanize Admission Portfolio Standard1
               Challenges:
               Main Challenges were trying to adapt this code from a BlueJ environment where a GUI makes objects and classes                 easily modifiable to a jar file that can be executed standalone. I realized this is far more complicated and                   deserves its own research and attention to accomplish. 
               
-              I was also challenged to find a way to make the Library class interact with Book class objects and returned to                 my "Objects First with Java" textbook and learnhowtoprogram.com to accomplish this.
+              I was also challenged to find a way to make the Library class interact with Book class objects and returned to                 my "Objects First with Java" textbook and learnhowtoprogram.com for research.
                      
 
 Version: November 16, 2017

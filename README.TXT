@@ -11,7 +11,7 @@ Project: Library Book System
               Future Work:
               
               Implementing main method calls so the project and code will work as a standalone .jar file
-              More features for the books and libraries including a method to print all books, titles, and authors in a given               library.
+              More features for the books and libraries including a method to print all books, titles, and authors in a given               library on screen.
 
 Version: Compiled using Bluej. November 16, 2017 
 

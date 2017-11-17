@@ -3,7 +3,7 @@ Project: Library Books
 Description:  For submission to the Galvanize Admission Portfolio Standard1
               
               Purpose:
-              Classes and Objects within this project were coded from scratch. My intention with the project is apply some of               my basic Java knowledge to a new challenge and learn new ways of interacting Classes and objects to create a                   more uniform, useful program that applies concepts that are new to me.
+              Classes and Objects within this project were coded from scratch. My intention with the project is to apply some               of my basic Java knowledge to a new challenge and learn new ways of interacting Classes and objects to create a               more uniform, useful program that applies concepts that are new to me.
               
               Use:
               Simple Java program to create book objects within the 
@@ -18,7 +18,7 @@ Description:  For submission to the Galvanize Admission Portfolio Standard1
               Challenges:
               Main Challenges were trying to adapt this code from a BlueJ environment where a GUI makes objects and classes                 easily modifiable to a jar file that can be executed standalone. I realized this is far more complicated and                   deserves its own research and attention to accomplish. 
               
-              I was also challenged to find a way to make the Library class interact with Book class objects and returned to                 some old textbooks and online resources to accomplish this.
+              I was also challenged to find a way to make the Library class interact with Book class objects and returned to                 my "Objects First with Java" textbook and learnhowtoprogram.com to accomplish this.
                      
 
 Version: November 16, 2017

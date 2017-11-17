@@ -37,7 +37,7 @@ public class Library
     }
     
     /**
-     * Method for inspecting books contained in the library
+     * Method for inspecting number of books contained in the library
      */
     
     public int librarySize()

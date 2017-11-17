@@ -13,8 +13,8 @@ class Book
     private String subject;
 
     /**
-     * Set the author and title fields when this object
-     * is constructed.
+     * Book constructor. Requires author, title, and subject input
+     * Strings to construct
      */
     public Book(String bookAuthor, String bookTitle, String bookSubject)
     {
@@ -23,15 +23,24 @@ class Book
         subject = bookSubject;
     }
 
+    /**
+     * Method to get author name
+     */
     public String getBookAuthor()
     {
         return author;
     }
     
+    /**
+     * Method to get book title 
+     */
     public String getBookTitle()
     {
         return title;
     }
+    /**
+     * Method to get book subject
+     */
     public String getBookSubject()
     {
         return subject;

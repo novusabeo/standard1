@@ -12,7 +12,7 @@ Description:  Galvanize Admission Portfolio Standard1
               Challenges:
               Main Challenges were trying to adapt this code from a BlueJ environment where a GUI makes objects and classes                 easily modifiable to a jar file that can be executed standalone.
               
-              Making the Library class interact with Book class objects to act as an inventory also took some learning and                   research. Ultimately, arrays came to the rescue and I implemented this into the Library class to act as a                     system for adding Book objects to it.
+              Making the Library class interact with Book class objects to act as an inventory took some research. Ultimately,               arrays came to the rescue and I implemented this into the Library class to act as a system for adding Book                     objects to it.
                      
 
 Version: Compiled in Bluej. November 16, 2017 

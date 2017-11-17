@@ -7,11 +7,11 @@ Project: Library Book System
               
               Also contains call methods for book titles, authors, and subjects as well a call method for the library class
               to reveal the current amount of books in the given library and a method to add book objects to a library object
+             
+              Future Work:
               
-              Challenges:
-              
-              Making the Library class interact with Book class objects to act as an inventory took some research. Ultimately,               arrays came to the rescue and I implemented this into the Library class to act as a system for adding Book                     objects to Library objects.
-           
+              Implementing main method calls so the project and code will work as a standalone .jar file
+              More features for the books and libraries including a method to print all books, titles, and authors in a given               library.
 
 Version: Compiled using Bluej. November 16, 2017 
 

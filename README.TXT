@@ -15,6 +15,6 @@ Description:  Galvanize Admission Portfolio Standard1
               Making the Library class interact with Book class objects to act as an inventory also took some learning and                   research. Ultimately, arrays came to the rescue and I implemented this into the Library class to act as a                     system for adding Book objects to it.
                      
 
-Version: Compiled and working in Bluej. November 16, 2017 
+Version: Compiled in Bluej. November 16, 2017 
 
 John Morrow
